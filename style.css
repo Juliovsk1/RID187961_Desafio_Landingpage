@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    font-family: "inter";
+}
+
+#DivTopo{
+    background: #303030;
+}
+
+.texto{
+    color: #FFFFFF;
+}
+
+#Titulo-Topo{
+    padding-left: 40px;
+    padding-top: 190px;
+    margin-bottom: 6px;
+    font-size: 60px;
+    font-weight: 500;
+
+}
+
+#Texto-Topo{
+    margin-left: 43px;
+    margin-top: 2px;
+    padding-bottom: 180px;
+    font-size: 20px;
+}
