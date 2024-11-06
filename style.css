@@ -12,9 +12,7 @@
 }
 
 #Titulo-Topo{
-    padding-left: 40px;
-    padding-top: 190px;
-    margin-bottom: 6px;
+    padding: 190px 40px 18px 50px;
     font-size: 60px;
     font-weight: 500;
 
@@ -23,6 +21,27 @@
 #Texto-Topo{
     margin-left: 43px;
     margin-top: 2px;
-    padding-bottom: 180px;
+    padding: 0px 0px 180px 10px;
     font-size: 20px;
+}
+
+#Dados{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background: #F9F9F9;
+    align-items: center;
+    display: flex;
+}
+
+#texto2{
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+    padding: 89px 0px 0px 180px;
+}
+#sub-texto{
+    color: black;
+    font-size: 20px;
+    padding: 0px 0px 60px 180px;
 }
