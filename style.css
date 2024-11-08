@@ -45,3 +45,28 @@
     font-size: 20px;
     padding: 0px 0px 60px 180px;
 }
+
+.texto-imagem{
+    padding-left: 300px;
+}
+#Titulo-imagem{
+    padding-bottom: 33px;
+    padding-top: 240px;
+    font-weight: 600;
+    font-size: 42px;
+}
+#Texto-imagem{
+    font-size: 26px;
+}
+
+#Principal{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+#image{
+   margin-top: 90px;
+   padding-bottom: 60px;
+   margin-right: 50px;
+}
+
